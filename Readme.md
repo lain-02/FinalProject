@@ -21,13 +21,16 @@ Final Project
 	[2차원 T-SNE 시각화 (2차)](FinalProject_T-SNE.ipynb)  
 	[Topic Model (2차)](FinalProject_LSA_TopicModel.ipynb)
 
-	-	긍정/부정(LDA)  
-		[(전체)긍정 키워드](FinalProject_LDA_GoodPoint.ipynb)  
-		[(전체)부정 키워드](FinalProject_LDA_BadPoint.ipynb)  
-		[(SHB)긍정 키워드](FinalProject_LDA_GoodPoint_SHB.ipynb)  
-		[(SHB)부정 키워드](FinalProject_LDA_BadPoint_SHB.ipynb)  
-		[(SHC)긍정 키워드](FinalProject_LDA_GoodPoint_SHC.ipynb)  
-		[(SHC)부정 키워드](FinalProject_LDA_BadPoint_SHC.ipynb)
+	-	긍정/부정 Text별 Topic 및 키워드 도출(LDA)
+
+		1.	전체  
+			[긍정](FinalProject_LDA_GoodPoint.ipynb)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[부정](FinalProject_LDA_BadPoint.ipynb)
+
+		2.	SHB  
+			[긍정](FinalProject_LDA_GoodPoint_SHB.ipynb)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[부정](FinalProject_LDA_BadPoint_SHB.ipynb)
+
+		3.	SHC  
+			[긍정](FinalProject_LDA_GoodPoint_SHC.ipynb)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[부정](FinalProject_LDA_BadPoint_SHC.ipynb)
 
 -	Classification  
 	[별점기반 추천여부 분류](LogisticRegression.ipynb)
@@ -37,6 +40,9 @@ Final Project
 
 -	Regression with Credit Scores in 2016  
 	[2016년 별점평가+신용평가 점수 기반 예측](tot_data_regression_with_2016CreditScore.ipynb)
+
+-	Based on SQL  
+	[SQL 형태 분석 및 더미변수 생성](JH_Analysis_BasedonSQL.ipynb)
 
 ※ 만약 위의 링크가 github에서 로딩이 제대로 되지 않을 경우, github의 소스 URL을 복사하고 [nbviewer](https://nbviewer.jupyter.org)에서 열면 잘 보임
 
