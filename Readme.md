@@ -19,9 +19,13 @@ Final Project
 -	Text Representation  
 	[특정 기업 샘플링 (1차)](sample_shc_190506.ipynb)  
 	[2차원 T-SNE 시각화 (2차)](FinalProject_T-SNE.ipynb)  
-	[Topic Model (2차)](FinalProject_LSA_TopicModel.ipynb)  
-	[긍정 키워드 도출](FinalProject_LDA_GoodPoint.ipynb)  
-	[부정 키워드 도출](FinalProject_LDA_BadPoint.ipynb)
+	[Topic Model (2차)](FinalProject_LSA_TopicModel.ipynb)
+
+	-	긍정/부정(LDA)  
+		[(전체)긍정 키워드](FinalProject_LDA_GoodPoint.ipynb)  
+		[(전체)부정 키워드](FinalProject_LDA_BadPoint.ipynb)  
+		[(SHB)긍정 키워드](FinalProject_LDA_GoodPoint_SHB.ipynb)  
+		[(SHB)부정 키워드](FinalProject_LDA_BadPoint_SHB.ipynb)
 
 -	Classification  
 	[별점기반 추천여부 분류](LogisticRegression.ipynb)
