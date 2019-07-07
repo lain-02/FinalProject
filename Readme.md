@@ -24,7 +24,7 @@ Final Project
 	-	긍정/부정(LDA)  
 		[(전체)긍정 키워드](FinalProject_LDA_GoodPoint.ipynb)  
 		[(전체)부정 키워드](FinalProject_LDA_BadPoint.ipynb)  
-		<br>[(SHB)긍정 키워드](FinalProject_LDA_GoodPoint_SHB.ipynb)  
+		[(SHB)긍정 키워드](FinalProject_LDA_GoodPoint_SHB.ipynb)  
 		[(SHB)부정 키워드](FinalProject_LDA_BadPoint_SHB.ipynb)  
 		[(SHC)긍정 키워드](FinalProject_LDA_GoodPoint_SHC.ipynb)  
 		[(SHC)부정 키워드](FinalProject_LDA_BadPoint_SHC.ipynb)
